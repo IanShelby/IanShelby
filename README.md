@@ -28,6 +28,6 @@
 ##
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ianshelby&show_icons=true&theme=dracula" alt="ianshelby" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianshelby&layout=donut&theme=dracula" alt="ianshelby" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianshelby&layout=donut&theme=dracula" alt="ianshelby" /></p>
 
 
