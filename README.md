@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java and Mysql**
 
-- 📫 Contact Me in: **ianmenezes36@gmail.com**
+- 📫 Contact Me in: **ianmenezes35@gmail.com**
 
 ##
 
