@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ian Menezes</h1>
 
-<h3 align="center">A initial backend developer from Brazil</h3>
+<h3 align="center">A backend developer from Brazil</h3>
 
 ##
 
-- 🌱 I’m currently learning **Java and Mysql**
+- 🌱Computer Science Student and **Java** Enjoyner
 
 - 📫 Contact Me in: **ianmenezes35@gmail.com**
 
@@ -23,6 +23,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="Ian-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Ian-Ms" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ian-Sb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Ian-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
