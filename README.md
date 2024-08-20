@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ian Menezes</h1>
 
-<h3 align="center">A backend developer from Brazil</h3>
+<h3 align="center">A new developer from Brazil</h3>
 
 ##
 
-- 💻 Computer Science Student and **Java** Enjoyner
+- 💻 Computer Science Student
 
 - 📫 Contact Me in: **ianmenezes35@gmail.com**
 
@@ -26,8 +26,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-Jv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Ian-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="center" alt="Ian-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Ian-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Ian-Ms" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Ian-Sb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Ian-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Ian-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
